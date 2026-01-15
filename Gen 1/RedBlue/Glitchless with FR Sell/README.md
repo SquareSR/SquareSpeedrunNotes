@@ -24,9 +24,10 @@ Marts:
 > Potion under 7 HP on Weedle
 
 ### BC1: 
-- Leer + HA x2
-- Leer + Tackle + either Tackle x2 or HA x1
-- Leer + Tackle + HA
+- Caterpie: Leer + HA x2
+- **Weedle**: Leer + Tackle + either Tackle x2 or HA
+    - (@+1 Tackle* --> HA*) (Always HA** if @+2 after any single tackle hit)
+- Caterpie: Leer + Tackle + HA
 
 | Heal to 28+ | @-1           |
 | ----------- | ------------- | 
