@@ -1,9 +1,9 @@
-> 5 Repel, Ether, Sell FR 
+> 5 Repel, 8 srepel, Ether, Sell FR (or if 4 Poke Balls, then 6 Repel, 7 Srepel + either Ether or 2 Max Ether, Sell FR)
 
 ## Nidoran Split
 
 Marts:
-- **3 Poke Balls** & **8 Potions**
+- **3 Poke Balls** & **8 Potions** 
 
 ## Brock Split
 
